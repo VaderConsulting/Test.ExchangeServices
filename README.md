@@ -24,4 +24,4 @@ Working copy from my Historical Dev folder `Test.ExchangeServices`. Assembly tit
 
 ## License
 
-MIT. Copyright (c) 2026 VaderConsulting, for Dave Robinson's code. See `LICENSE`. The Exchange Web Services WSDL/XSD and generated `Reference.cs` are Microsoft Exchange schema artifacts.
+MIT. Copyright (c) 2026 Vader Consulting, for Dave Robinson's code. See `LICENSE`. The Exchange Web Services WSDL/XSD and generated `Reference.cs` are Microsoft Exchange schema artifacts.
